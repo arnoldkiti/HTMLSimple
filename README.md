@@ -28,7 +28,7 @@ HTML5 includes native support for multimedia elements such as :
 
 ## Enhanced Semantics
 HTML5 encourages the use of semantic elements to improve the readability of the code and the accessibility of the content. 
-Elements like <p>, <li>, <a>, and provide meaningful structure to the document.
+Elements like p, li, a, canvas, data, datalist and provide meaningful structure to the document.
 
 ## APIs and DOM
 HTML5 introduces new APIs and extends existing ones to support complex web applications. Some of the new APIs include:
